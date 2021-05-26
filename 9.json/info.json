@@ -1,0 +1,27 @@
+
+[
+    {
+       "name":"dushyant",
+       "company":"itvmh",
+       "age":22,
+       "gender":"male"
+
+},
+
+    {
+    
+        "name":"aakash",
+        "company":"itvmh",
+        "age":22,
+        "gender":"male"
+    },
+        
+    {
+        "name":"rahul",
+        "company":"itvmh",
+        "age":22,
+        "gender":"male"
+    },
+
+    {"name":"rinky","age":22,"salary":40020}
+]{"name":"rinky","age":22,"salary":40020}{"name":"rinky","age":22,"salary":40020}{"name":"rinky","age":22,"salary":40020}
